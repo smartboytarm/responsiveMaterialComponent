@@ -1,0 +1,13 @@
+mat-grid-tile {
+    background: lightblue;
+  }
+
+  @media screen and (max-width: 300px) {
+      .content__1 {
+          display: none;
+      }
+      .content__2 {
+          display: block;
+          
+      }
+  }
